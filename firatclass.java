@@ -1,3 +1,5 @@
+//bubble Sort Ans//
+
 public class firatclass {
     public static void SelectionSort(int arr[]){
         for(int i=0;i<arr.length-1;i++){
