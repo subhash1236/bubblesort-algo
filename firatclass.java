@@ -1,4 +1,4 @@
-//bubble Sort Ans//
+//slection Sort Ans//
 
 public class firatclass {
     public static void SelectionSort(int arr[]){
