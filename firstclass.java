@@ -1,6 +1,6 @@
 import java.util.*;
 
-import javax.security.auth.kerberos.KerberosCredMessage;
+
 class firstclass {
   public static void Reversnumber(int nums[]){
   int first =0 ;
